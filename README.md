@@ -24,7 +24,7 @@ Loading a small 11.2gb SAS dataset into R in under eight minutes. Keywords: sas 
     INPUT
     =====
 
-    11.2 gb dataset with14,000,000 observations and 122 variables 76 numeric and 46 character
+    11.2 gb dataset with 14,000,000 observations and 122 variables 76 numeric and 46 character
 
      NAME         TYPE      NAME      TYPE     NAME           TYPE    NAME           TYPE
 
@@ -268,7 +268,7 @@ Loading a small 11.2gb SAS dataset into R in under eight minutes. Keywords: sas 
         str(floats);
     ');
 
-    > options(help_type = "html")
+    > 
      num [1:14000000, 1:76] 24 8 38 9 25 8 3 10 44 14 ...
      - attr(*, "dimnames")=List of 2
       ..$ : NULL
